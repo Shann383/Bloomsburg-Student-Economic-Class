@@ -2,7 +2,7 @@
 
 This project analyzes income mobility data for Bloomsburg University of Pennsylvania, visualizing the share of students and their parents across different income quintiles.
 
-## Table of Contents
+## Table of Contents 
 
 - [Features](#features)
 - [Installation](#installation)
